@@ -10,13 +10,13 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 4
     },
     {
       "id": 4,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Forky",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/6/65/Forky_Waving.png/revision/latest?cb=20190629195715",
+      "likes": 7,
+      "id": 9
+    },
+    {
+      "name": "Combat Carl",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/b/b4/Combat_Carl.png/revision/latest?cb=20170702173426",
+      "likes": 2,
+      "id": 10
+    },
+    {
+      "name": "Duke Caboom",
+      "image": "https://cdn11.bigcommerce.com/s-5ylnei6or5/images/stencil/1280x1280/products/1979/4997/2926_DukeCaboom_TS4_28__94776.1559247933.jpg?c=2&imbypass=on",
+      "likes": 6,
+      "id": 11
     }
   ]
 }
