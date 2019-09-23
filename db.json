@@ -22,13 +22,13 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 39
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 41
     },
     {
       "id": 6,
@@ -46,7 +46,35 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 37
+    },
+    {
+      "name": "Ugh",
+      "image": "https://cdn.theatlantic.com/assets/media/img/mt/2016/09/RTX1GZCO/lead_720_405.jpg?mod=1533691850",
+      "id": 9
+    },
+    {
+      "name": "Gross",
+      "image": "https://cdn.theatlantic.com/assets/media/img/mt/2016/09/RTX1GZCO/lead_720_405.jpg?mod=1533691850",
+      "id": 10,
+      "likes": null
+    },
+    {
+      "name": "Clementine",
+      "image": "https://cdn.theatlantic.com/assets/media/img/mt/2016/09/RTX1GZCO/lead_720_405.jpg?mod=1533691850",
+      "id": 11
+    },
+    {
+      "name": "Rutger McKenna",
+      "image": "https://cdn.theatlantic.com/assets/media/img/mt/2016/09/RTX1GZCO/lead_720_405.jpg?mod=1533691850",
+      "likes": 42,
+      "id": 12
+    },
+    {
+      "name": "Clementine",
+      "image": "https://cdn.theatlantic.com/assets/media/img/mt/2016/09/RTX1GZCO/lead_720_405.jpg?mod=1533691850",
+      "likes": 4,
+      "id": 13
     }
   ]
 }
