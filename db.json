@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 11
     },
     {
       "id": 3,
@@ -46,7 +46,37 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 5
+    },
+    {
+      "name": "doge",
+      "image": "https://i.kym-cdn.com/entries/icons/mobile/000/013/564/doge.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "doge",
+      "image": "https://i.kym-cdn.com/entries/icons/mobile/000/013/564/doge.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "alistar",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_5.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "another ali",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_5.jpg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "third ali",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_5.jpg",
+      "likes": 0,
+      "id": 13
     }
   ]
 }
