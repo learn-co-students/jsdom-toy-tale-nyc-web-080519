@@ -41,7 +41,8 @@ document.addEventListener("DOMContentLoaded" , function () {
     },
     body: JSON.stringify({ 
       "name": `${toyFormInput[0].value}`, 
-      "image": `${toyFormInput[1].value}`
+      "image": `${toyFormInput[1].value}`,
+      "likes": 0
     })
   })})
 

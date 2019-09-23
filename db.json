@@ -51,12 +51,24 @@
     {
       "name": "Buttercup",
       "image": "https://vignette.wikia.nocookie.net/heroes-and-villians/images/c/c6/Buttercup.png/revision/latest?cb=20171024034229",
-      "id": 19
+      "id": 19,
+      "likes": null
     },
     {
       "name": "Trixie",
       "image": "https://vignette.wikia.nocookie.net/disney/images/c/c4/Profile-_Trixie.png/revision/latest?cb=20190320130341",
       "id": 20
+    },
+    {
+      "name": "Buttercup",
+      "image": "https://vignette.wikia.nocookie.net/heroes-and-villians/images/c/c6/Buttercup.png/revision/latest?cb=20171024034229",
+      "id": 21
+    },
+    {
+      "name": "Buttercup",
+      "image": "https://vignette.wikia.nocookie.net/heroes-and-villians/images/c/c6/Buttercup.png/revision/latest?cb=20171024034229",
+      "likes": 5,
+      "id": 22
     }
   ]
 }
