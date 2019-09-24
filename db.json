@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": "18"
     },
     {
       "id": 2,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Caree McCar",
+      "image": "https://image.shutterstock.com/image-photo/green-blue-yellow-toy-car-260nw-163175525.jpg",
+      "likes": "2",
+      "id": 9
+    },
+    {
+      "name": "Big Wheeler",
+      "image": "https://image.shutterstock.com/image-photo/studio-shot-colorful-toy-car-260nw-685416922.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Shoey",
+      "image": "http://ease4mom.com/wp-content/uploads/2017/02/47-e2c8bdd758256856df819bd37338a283.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Big Bootie",
+      "image": "https://i.ebayimg.com/images/g/RkEAAOSwH0VcCV5W/s-l300.jpg",
+      "likes": "5",
+      "id": 12
     }
   ]
 }
