@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 17
     },
     {
       "id": 2,
@@ -49,43 +49,22 @@
       "likes": -2
     },
     {
-      "0": {},
-      "1": {},
-      "2": {},
+      "name": "test 9001",
+      "image": "boom",
+      "likes": "0",
       "id": 9
     },
     {
-      "0": {},
-      "1": {},
-      "2": {},
+      "name": "test 9001",
+      "image": "boom",
+      "likes": "0",
       "id": 10
-    },
-    {
-      "0": {},
-      "1": {},
-      "2": {},
-      "id": 11
-    },
-    {
-      "0": {},
-      "1": {},
-      "2": {},
-      "id": 12
-    },
-    {
-      "id": 13
     },
     {
       "name": "test 9000",
       "image": "https://www.pexels.com/photo/ball-ball-shaped-blur-bubble-302743/",
       "likes": "0",
-      "id": 14
-    },
-    {
-      "name": "test 9000",
-      "image": "testURL",
-      "likes": "0",
-      "id": 15
+      "id": 11
     }
   ]
 }
